@@ -1,0 +1,16 @@
+{
+    "name" : "PostoBot",
+    "token" : "1425890630:AAFOUMi0Ff9j3txfD9VL5KaolTxnxoV6voE",
+    "hostsPath" : "./hosts.json",
+    "commands" : {
+        "/start" : "start with new user",
+        "/help" : "all commands",
+        "/newbasehost" : "create new base host",
+        "sethost" : "set host of the list",
+        "deletehost" : "delete your base host",
+        "/post" : "add new work",
+        "/get" : "get all works",
+        "/put" : "rename work",
+        "/delete" : "delete work with all your deadlines"
+    }
+}

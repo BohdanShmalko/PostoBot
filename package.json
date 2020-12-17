@@ -1,0 +1,32 @@
+{
+  "name": "postobot",
+  "version": "1.0.0",
+  "description": "telegram bot for simple requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanShmalko/PostoBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs",
+    "requests"
+  ],
+  "author": "Bogdan Shmalko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BohdanShmalko/PostoBot/issues"
+  },
+  "homepage": "https://github.com/BohdanShmalko/PostoBot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2"
+  }
+}
